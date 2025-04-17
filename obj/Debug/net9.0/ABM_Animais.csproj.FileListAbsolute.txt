@@ -1,0 +1,14 @@
+E:\ABM_Animais\bin\Debug\net9.0\ABM_Animais.exe
+E:\ABM_Animais\bin\Debug\net9.0\ABM_Animais.deps.json
+E:\ABM_Animais\bin\Debug\net9.0\ABM_Animais.runtimeconfig.json
+E:\ABM_Animais\bin\Debug\net9.0\ABM_Animais.dll
+E:\ABM_Animais\bin\Debug\net9.0\ABM_Animais.pdb
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.GeneratedMSBuildEditorConfig.editorconfig
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.AssemblyInfoInputs.cache
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.AssemblyInfo.cs
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.csproj.CoreCompileInputs.cache
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.dll
+E:\ABM_Animais\obj\Debug\net9.0\refint\ABM_Animais.dll
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.pdb
+E:\ABM_Animais\obj\Debug\net9.0\ABM_Animais.genruntimeconfig.cache
+E:\ABM_Animais\obj\Debug\net9.0\ref\ABM_Animais.dll

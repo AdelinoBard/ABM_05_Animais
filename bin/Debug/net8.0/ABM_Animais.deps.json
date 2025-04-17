@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ABM_Animais/1.0.0": {
+        "runtime": {
+          "ABM_Animais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABM_Animais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
