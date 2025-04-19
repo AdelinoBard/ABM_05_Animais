@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ABM_GitHub\\ABM_05_Animais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|e:\\abm_github\\abm_05_animais\\base\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|solutionrelative:base\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|e:\\abm_github\\abm_05_animais\\base\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|solutionrelative:base\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|e:\\abm_github\\abm_05_animais\\animais\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66C47FC-A5E9-5CA9-1AC7-93BA32C0E697}|ABM_Animais.csproj|solutionrelative:animais\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "E:\\ABM_GitHub\\ABM_05_Animais\\Base\\Mamifero.cs",
+              "RelativeDocumentMoniker": "Base\\Mamifero.cs",
+              "ToolTip": "E:\\ABM_GitHub\\ABM_05_Animais\\Base\\Mamifero.cs",
+              "RelativeToolTip": "Base\\Mamifero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:22:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\ABM_GitHub\\ABM_05_Animais\\Base\\Animal.cs",
+              "RelativeDocumentMoniker": "Base\\Animal.cs",
+              "ToolTip": "E:\\ABM_GitHub\\ABM_05_Animais\\Base\\Animal.cs",
+              "RelativeToolTip": "Base\\Animal.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:22:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "E:\\ABM_GitHub\\ABM_05_Animais\\Animais\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Animais\\Cachorro.cs",
+              "ToolTip": "E:\\ABM_GitHub\\ABM_05_Animais\\Animais\\Cachorro.cs",
+              "RelativeToolTip": "Animais\\Cachorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:16:17.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
